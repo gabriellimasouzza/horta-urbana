@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://gabriellimasouzza.github.io/horta-urbana/sitemap.xml
